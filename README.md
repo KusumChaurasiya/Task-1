@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 // Function prototypes
+
 void readMatrix(int a[10][10], int r, int c);
 void printMatrix(int a[10][10], int r, int c);
 void addMatrix(int a[10][10], int b[10][10], int r, int c);
